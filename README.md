@@ -2,7 +2,7 @@
 Python based AI agent to play against Go-Players in a 5x5 Go Board.
 
 
-##How to run this:
+**How to run this:**
 1. Clone this repository.
 2. Set your working directory of your terminal to this repository.
 3. Then run build.sh
